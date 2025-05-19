@@ -1,1 +1,1 @@
-let us test branch protection
+Let's test branch protection.
